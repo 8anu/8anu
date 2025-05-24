@@ -16,6 +16,9 @@
 </p>
 
 ---
+## 🧠 LeetCode Stats
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/vyashmt?theme=dark&font=baloo&ext=heatmap)
 
 
 ---
@@ -25,3 +28,5 @@
   <a href="https://www.linkedin.com/in/hemant-vyas-858560206/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" /></a>
   <a href="mailto:vyashmt@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge" /></a>
 </p>
+
+
