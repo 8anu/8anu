@@ -19,13 +19,10 @@
 
 ## 📂 My Repositories
 <p align="left">
-  <a href="https://github.com/your-username?tab=repositories&sort=stargazers">
+  <a href="https://github.com/8anu?tab=repositories&sort=stargazers">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=ev-charging-locator&theme=tokyonight" />
   </a>
-  <a href="https://github.com/your-username/dsa-solutions">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=dsa-solutions&theme=tokyonight" />
-  </a>
-</p>
+  
 
 ---
 
