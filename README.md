@@ -17,16 +17,6 @@
 
 ---
 
-## 📌 Featured Projects
-
-| Project | Description | Tech Stack | Repo |
-|---------|-------------|------------|------|
-| 🚗 **EV Charging Point Locator** | A web app to find nearby EV charging stations with filters & map view | React, Node.js, MongoDB, Express, Google Maps API | [🔗 View Repo](https://github.com/your-username/ev-charging-locator) |
-| 💻 **DSA Solutions** | Collection of solved LeetCode & competitive programming problems | C++, JavaScript | [🔗 View Repo](https://github.com/your-username/dsa-solutions) |
-| 📊 **Portfolio Website** | Personal portfolio showcasing projects and skills | HTML, CSS, JavaScript | [🔗 View Repo](https://github.com/your-username/portfolio) |
-
----
-
 ## 📂 My Repositories
 <p align="left">
   <a href="https://github.com/your-username?tab=repositories&sort=stargazers">
@@ -35,18 +25,6 @@
   <a href="https://github.com/your-username/dsa-solutions">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=dsa-solutions&theme=tokyonight" />
   </a>
-</p>
-
----
-
-## 📊 GitHub Stats & Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
