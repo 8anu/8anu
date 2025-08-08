@@ -2,7 +2,7 @@
 <h3 align="center">A passionate full-stack developer from India</h3>
 
 - 🔭 I’m currently working on **EV Charging Point Locator**
-- 🌱 I’m currently learning **Spring Boot, MongoDB, and React**
+- 🌱 I’m currently learning **Node.js and Express**
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **JavaScript, React, Node.js, DSA**
 - 📫 How to reach me: **vyashmt@gmail.com**
