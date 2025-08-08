@@ -17,15 +17,6 @@
 
 ---
 
-## 📂 My Repositories
-<p align="left">
-  <a href="https://github.com/8anu?tab=repositories&sort=stargazers">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=ev-charging-locator&theme=tokyonight" />
-  </a>
-  
-
----
-
 ## 🧠 LeetCode Stats
 ![LeetCode Stats](https://leetcard.jacoblin.cool/vyashmt?theme=dark&font=baloo&ext=heatmap)
 
