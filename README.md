@@ -17,8 +17,11 @@
 
 ---
 
-###  Codolio Stats
-[![My Codolio Profile](https://codolio.com/path-to-your-stats.png)](https://codolio.com/profile/hex880)
+## ​ Coding Journey
+
+### Codolio Stats
+[![Codolio Stats](https://dsastats.vercel.app/api/codolio/your-username)](https://codolio.com/hex880)
+
 
 ---
 
