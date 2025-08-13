@@ -17,14 +17,6 @@
 
 ---
 
-## ​ Coding Journey
-
-### Codolio Stats
-[![Codolio Stats](https://dsastats.vercel.app/api/codolio/your-username)](https://codolio.com/hex880)
-
-
----
-
 ## 🧠 LeetCode Stats
 ![LeetCode Stats](https://leetcard.jacoblin.cool/vyashmt?theme=dark&font=baloo&ext=heatmap)
 
